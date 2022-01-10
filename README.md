@@ -1,5 +1,4 @@
 # scd-ccp
-Semantic change detection task on climate change perception 
 
 I am glad to share the project: ‘CLIMATE CHANGE PERCEPTION EVOLUTION’.
 
